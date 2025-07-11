@@ -37,11 +37,11 @@
 - **Others:** Celery, Linux, GitHub Actions, CI/CD basics
 
 <p align="center">
-  <img src="https://readme-stats.clckblog.space/api?username=abduqodirDev&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://readme-stats.clckblog.space/api?username=AbdimajidovDev&show_icons=true&theme=radical" alt="GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=abduqodirDev&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=AbdimajidovDev&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
