@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 I'm currently a student at **TATU (Al-Khwarizmi TUIT)**, majoring in Telecommunications Engineering.
-- 💼 Junior Backend Developer at **IT Klaster** education center.
+- 💼 Junior Backend Developer at **Automatic Technology Solutions LLC** education center.
 - 🔧 Actively working on real-world projects and teaching backend development.
 - 🧠 Passionate about learning system design, clean architecture, and scalable backend solutions.
 
@@ -24,16 +24,20 @@
 - **Testing:** Pytest, DRF built-in testing
 - **Others:** Celery, Linux, GitHub Actions, CI/CD basics
 
+<p align="center">
+  <img src="https://readme-stats.clckblog.space/api?username=abduqodirDev&show_icons=true&theme=radical" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://readme-stats.clckblog.space/api/top-langs/?username=abduqodirDev&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
 ---
+### 🚀 Technologies and tools used:
 
-### 🔥 Projects
-
-- **EduMaster AI** — A remote education platform powered by AI feedback (Django + Telegram Bot + PostgreSQL + ChatGPT).
-- **Management System for Education Centers** — Tracks students, attendance, payments, and teacher salaries (Django + HTML/JS).
-- **Online Cosmetics Store** — E-commerce API with user discounts, order tracking and anonymous checkout (FastAPI + PostgreSQL).
-
-Check out my pinned repositories below! 📌
-
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,linux,nginx,vscode,html,css,js,redis,postman&perline=8" />
+</p>
 ---
 
 ### 📈 GitHub Stats
