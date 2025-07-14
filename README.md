@@ -8,12 +8,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 I'm currently a student at **TATU (Al-Khwarizmi TUIT)**, majoring in Telecommunications Engineering.
-- 💼 Junior Backend Developer at **Automatic Technology Solutions LLC** education center.
-- 🔧 Actively working on real-world projects and teaching backend development.
-- 🧠 Passionate about learning system design, clean architecture, and scalable backend solutions.
+- 🎓 I am currently a student of **TATU (Al-Khwarizmiy TATU)**, majoring in Telecommunication Engineering.
+- 💼 I am a Junior Backend Developer at **Automatic Technology Solutions LLC** IT Company.
+- 🔧 Actively working on real projects and learning backend development.
+- 🧠 Passionate about system clean architecture, and scalable backend solutions.
 
-
+---
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
@@ -25,7 +25,6 @@
 <a href="https://instagram.com/jamzayn10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamzayn10" height="30" width="40" /></a>
 </p>
 
----
 
 ### 🛠️ Tech Stack
 
@@ -48,7 +47,7 @@
 ### 🚀 Technologies and tools used:
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,linux,nginx,vscode,html,css,js,redis,postman&perline=8" />
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,docker,git,github,linux,vscode,html,css,postman,mysql,sqlite,fastapi,restapi,aiogram&perline=8" />
 </p>
 ---
 
@@ -62,6 +61,6 @@
 
 ### 📫 Contact Me
 
-- Telegram: [@Tolqinjon](https://t.me/Abdimajidov_oo1)
-- Email: to*****@gmail.com
+- Telegram: [@Abdimajidov_oo1](https://t.me/Abdimajidov_oo1)
+- Email: tulqinjonabdimajidovhp@gmail.com
 - LinkedIn: [Abdimajidov](https://www.linkedin.com/in/to-lqinjon-abdimajidov-977a76276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCORXI0O3TNSJfyu6gB%2BBvA%3D%3D)
