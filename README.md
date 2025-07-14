@@ -13,7 +13,7 @@
 - 🔧 Actively working on real-world projects and teaching backend development.
 - 🧠 Passionate about learning system design, clean architecture, and scalable backend solutions.
 
----
+
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif" />
 
@@ -64,4 +64,4 @@
 
 - Telegram: [@Tolqinjon](https://t.me/Abdimajidov_oo1)
 - Email: to*****@gmail.com
-- LinkedIn: (Add if available)
+- LinkedIn: [Abdimajidov](https://www.linkedin.com/in/to-lqinjon-abdimajidov-977a76276?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BCORXI0O3TNSJfyu6gB%2BBvA%3D%3D)
